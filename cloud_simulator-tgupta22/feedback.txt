@@ -1,0 +1,8 @@
+Hi Tarush,
+
+Your grade for HW1 is 6%.
+
+1. -2%: For failing unit tests.
+2. -2%: For not simulating broadcast storm.
+
+Abhijeet

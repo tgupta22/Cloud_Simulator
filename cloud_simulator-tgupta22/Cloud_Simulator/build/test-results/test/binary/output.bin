@@ -1,0 +1,1144 @@
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  35.44: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  35.55: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  35.55: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  35.55: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  39.45: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  39.45: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  39.45: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  39.45: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  39.45: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  39.45: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  39.45: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  39.45: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  39.45: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 39.45 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        35|      23
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        35|      23
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        35|      23
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        35|      23
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        35|      23
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        35|      23
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        35|      23
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        35|      23
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        35|      23
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        35|      23
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        35|      23
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        35|      23
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        35|      23
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        35|      23
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        35|      23
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  19.09: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  19.20: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  19.20: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  19.20: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  23.10: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  23.10: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  23.10: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  23.10: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  23.10: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  23.10: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  23.10: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  23.10: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  23.10: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 23.10 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        18|       7
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        18|       7
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        18|       7
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        18|       7
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        18|       7
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        18|       7
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        18|       7
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        18|       7
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        18|       7
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        18|       7
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        18|       7
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        18|       7
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        18|       7
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        18|       7
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        18|       7
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  18.88: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  18.99: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  18.99: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  18.99: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  22.89: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  22.89: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  22.89: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  22.89: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  22.89: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  22.89: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  22.89: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  22.89: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  22.89: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 22.89 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        18|       6
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        18|       6
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        18|       6
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        18|       6
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        18|       6
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        18|       6
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        18|       6
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        18|       6
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        18|       6
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        18|       6
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        18|       6
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        18|       6
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        18|       6
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        18|       6
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        18|       6
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  20.70: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  20.81: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  20.81: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  20.81: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  24.71: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  24.71: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  24.71: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  24.71: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  24.71: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  24.71: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  24.71: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  24.71: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  24.71: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 24.71 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        20|       8
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        20|       8
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        20|       8
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        20|       8
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        20|       8
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        20|       8
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        20|       8
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        20|       8
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        20|       8
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        20|       8
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        20|       8
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        20|       8
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        20|       8
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        20|       8
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        20|       8
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  28.17: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  28.28: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  28.28: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  28.28: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  32.18: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  32.18: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  32.18: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  32.18: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  32.18: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  32.18: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  32.18: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  32.18: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  32.18: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 32.18 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        27|      16
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        27|      16
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        27|      16
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        27|      16
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        27|      16
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        27|      16
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        27|      16
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        27|      16
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        27|      16
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        27|      16
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        27|      16
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        27|      16
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        27|      16
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        27|      16
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        27|      16
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  21.69: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  21.80: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  21.80: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  21.80: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  25.70: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  25.70: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  25.70: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  25.70: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  25.70: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  25.70: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  25.70: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  25.70: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  25.70: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 25.70 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        21|       9
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        21|       9
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        21|       9
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        21|       9
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        21|       9
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        21|       9
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        21|       9
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        21|       9
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        21|       9
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        21|       9
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        21|       9
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        21|       9
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        21|       9
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        21|       9
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        21|       9
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+Starting hw1
+[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m[39mDEBUG RAM
+[0;39m"[34mINFO  Network Configuration
+[0;39m#[34mINFO  Create and Submit VM's
+[0;39m.[34mINFO  Creating and submitting Cloudlets
+[0;39m[34mINFO  
+D================== Starting CloudSim Plus 5.1.0 ==================
+
+[0;39m-[34mINFO  DatacenterSimple1 is starting...
+[0;39m-[34mINFO  DatacenterSimple2 is starting...
+[0;39m-[34mINFO  DatacenterSimple3 is starting...
+[0;39m3[34mINFO  DatacenterBrokerSimple4 is starting...
+[0;39m[34mINFO  Entities started.
+[0;39mN[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+[0;39mV[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+[0;39mW[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+[0;39mU[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+[0;39mW[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+[0;39mV[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+[0;39mY[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+[0;39mW[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+[0;39mX[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+[0;39mY[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+[0;39mY[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+[0;39mY[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+[0;39mY[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+[0;39mY[34mINFO  16.18: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+[0;39mF[34mINFO  16.29: Processing last events before simulation shutdown.
+[0;39m?[34mINFO  16.29: DatacenterBrokerSimple4 is shutting down...
+[0;39mJ[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+[0;39mJ[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+[0;39mJ[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+[0;39mJ[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+[0;39mJ[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+[0;39mI[34mINFO  16.29: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+[0;39mG[34mINFO  20.19: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+[0;39mG[34mINFO  20.19: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+[0;39mG[34mINFO  20.19: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+[0;39mG[34mINFO  20.19: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+[0;39mG[34mINFO  20.19: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+[0;39mE[34mINFO  20.19: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+[0;39m.[34mINFO  Simulation: No more future events
+
+[0;39mU[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+[0;39m9[34mINFO  20.19: DatacenterSimple1 is shutting down...
+[0;39m9[34mINFO  20.19: DatacenterSimple2 is shutting down...
+[0;39m9[34mINFO  20.19: DatacenterSimple3 is shutting down...
+[0;39m[34mINFO  
+I================== Simulation finished at time 20.19 ==================
+
+[0;39m
+
+=                                         SIMULATION RESULTS
+
+gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+g-----------------------------------------------------------------------------------------------------
+g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        15|       4
+g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        15|       4
+g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        15|       4
+g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        15|       4
+g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        15|       4
+g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        15|       4
+g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        15|       4
+g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        15|       4
+g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        15|       4
+g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        15|       4
+g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        15|       4
+g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        15|       4
+g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        15|       4
+g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        15|       4
+g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        15|       4
+g-----------------------------------------------------------------------------------------------------
+hw1 finished!
+	Starting hw1
+	[39mDEBUG RAM
+	[0;39m	[39mDEBUG RAM
+	[0;39m	[39mDEBUG RAM
+	[0;39m	"[34mINFO  Network Configuration
+	[0;39m	#[34mINFO  Create and Submit VM's
+	[0;39m	.[34mINFO  Creating and submitting Cloudlets
+	[0;39m	[34mINFO  
+	D================== Starting CloudSim Plus 5.1.0 ==================
+	
+	[0;39m	-[34mINFO  DatacenterSimple1 is starting...
+	[0;39m	-[34mINFO  DatacenterSimple2 is starting...
+	[0;39m	-[34mINFO  DatacenterSimple3 is starting...
+	[0;39m	3[34mINFO  DatacenterBrokerSimple4 is starting...
+	[0;39m	[34mINFO  Entities started.
+	[0;39m	N[34mINFO  0.00: DatacenterBrokerSimple4: List of 3 datacenters(s) received.
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 0 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 1 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 2 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 3 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 4 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 5 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 6 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 7 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 8 in DatacenterSimple1
+	[0;39m	V[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 9 in DatacenterSimple1
+	[0;39m	W[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 10 in DatacenterSimple1
+	[0;39m	W[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 11 in DatacenterSimple1
+	[0;39m	W[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 12 in DatacenterSimple1
+	[0;39m	W[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 13 in DatacenterSimple1
+	[0;39m	W[34mINFO  0.00: DatacenterBrokerSimple4: Trying to create Vm 14 in DatacenterSimple1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 8 has been allocated to Host 8/DC 1
+	[0;39m	U[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 9 has been allocated to Host 9/DC 1
+	[0;39m	W[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 10 has been allocated to Host 10/DC 1
+	[0;39m	W[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 11 has been allocated to Host 11/DC 1
+	[0;39m	W[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 12 has been allocated to Host 12/DC 1
+	[0;39m	W[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 13 has been allocated to Host 13/DC 1
+	[0;39m	W[34mINFO  3.90: VmAllocationPolicyFirstFit: Vm 14 has been allocated to Host 14/DC 1
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 4 to Vm 4 in Host 4/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 5 to Vm 5 in Host 5/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 6 to Vm 6 in Host 6/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 7 to Vm 7 in Host 7/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 8 to Vm 8 in Host 8/DC 1.
+	[0;39m	V[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 9 to Vm 9 in Host 9/DC 1.
+	[0;39m	Y[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 10 to Vm 10 in Host 10/DC 1.
+	[0;39m	Y[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 11 to Vm 11 in Host 11/DC 1.
+	[0;39m	Y[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 12 to Vm 12 in Host 12/DC 1.
+	[0;39m	Y[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 13 to Vm 13 in Host 13/DC 1.
+	[0;39m	Y[34mINFO  7.90: DatacenterBrokerSimple4: Sending Cloudlet 14 to Vm 14 in Host 14/DC 1.
+	[0;39m	W[34mINFO  7.90: DatacenterBrokerSimple4: All waiting Cloudlets submitted to some VM.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 0 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 1 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 2 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 3 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 4 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 5 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 6 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 7 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 8 finished and returned to broker.
+	[0;39m	X[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 9 finished and returned to broker.
+	[0;39m	Y[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 10 finished and returned to broker.
+	[0;39m	Y[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 11 finished and returned to broker.
+	[0;39m	Y[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 12 finished and returned to broker.
+	[0;39m	Y[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 13 finished and returned to broker.
+	[0;39m	Y[34mINFO  39.43: DatacenterBrokerSimple4: Cloudlet 14 finished and returned to broker.
+	[0;39m	F[34mINFO  39.54: Processing last events before simulation shutdown.
+	[0;39m	?[34mINFO  39.54: DatacenterBrokerSimple4 is shutting down...
+	[0;39m	J[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 14 destruction.
+	[0;39m	J[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 13 destruction.
+	[0;39m	J[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 12 destruction.
+	[0;39m	J[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 11 destruction.
+	[0;39m	J[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 10 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 9 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 8 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 7 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 6 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 5 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 4 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 3 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 2 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 1 destruction.
+	[0;39m	I[34mINFO  39.54: DatacenterBrokerSimple4: Requesting Vm 0 destruction.
+	[0;39m	G[34mINFO  43.44: DatacenterSimple: Vm 14 destroyed on Host 14/DC 1. 
+	[0;39m	G[34mINFO  43.44: DatacenterSimple: Vm 13 destroyed on Host 13/DC 1. 
+	[0;39m	G[34mINFO  43.44: DatacenterSimple: Vm 12 destroyed on Host 12/DC 1. 
+	[0;39m	G[34mINFO  43.44: DatacenterSimple: Vm 11 destroyed on Host 11/DC 1. 
+	[0;39m	G[34mINFO  43.44: DatacenterSimple: Vm 10 destroyed on Host 10/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 9 destroyed on Host 9/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 8 destroyed on Host 8/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 7 destroyed on Host 7/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 6 destroyed on Host 6/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 5 destroyed on Host 5/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 4 destroyed on Host 4/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. 
+	[0;39m	E[34mINFO  43.44: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. 
+	[0;39m	.[34mINFO  Simulation: No more future events
+	
+	[0;39m	U[34mINFO  CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+	
+	[0;39m	9[34mINFO  43.44: DatacenterSimple1 is shutting down...
+	[0;39m	9[34mINFO  43.44: DatacenterSimple2 is shutting down...
+	[0;39m	9[34mINFO  43.44: DatacenterSimple3 is shutting down...
+	[0;39m	[34mINFO  
+	I================== Simulation finished at time 43.44 ==================
+	
+	[0;39m	
+	
+	=                                         SIMULATION RESULTS
+	
+	gCloudlet|Status |DC|Host|Host PEs |VM|VM PEs   |CloudletLen|CloudletPEs|StartTime|FinishTime|ExecTime
+	g      ID|       |ID|  ID|CPU cores|ID|CPU cores|         MI|  CPU cores|  Seconds|   Seconds| Seconds
+	g-----------------------------------------------------------------------------------------------------
+	g       0|SUCCESS| 1|   0|       15| 0|        1|      10000|          1|       12|        39|      27
+	g       1|SUCCESS| 1|   1|       15| 1|        1|      10000|          1|       12|        39|      27
+	g       2|SUCCESS| 1|   2|       15| 2|        1|      10000|          1|       12|        39|      27
+	g       3|SUCCESS| 1|   3|       15| 3|        1|      10000|          1|       12|        39|      27
+	g       4|SUCCESS| 1|   4|       15| 4|        1|      10000|          1|       12|        39|      27
+	g       5|SUCCESS| 1|   5|       15| 5|        1|      10000|          1|       12|        39|      27
+	g       6|SUCCESS| 1|   6|       15| 6|        1|      10000|          1|       12|        39|      27
+	g       7|SUCCESS| 1|   7|       15| 7|        1|      10000|          1|       12|        39|      27
+	g       8|SUCCESS| 1|   8|       15| 8|        1|      10000|          1|       12|        39|      27
+	g       9|SUCCESS| 1|   9|       15| 9|        1|      10000|          1|       12|        39|      27
+	g      10|SUCCESS| 1|  10|       15|10|        1|      10000|          1|       12|        39|      27
+	g      11|SUCCESS| 1|  11|       15|11|        1|      10000|          1|       12|        39|      27
+	g      12|SUCCESS| 1|  12|       15|12|        1|      10000|          1|       12|        39|      27
+	g      13|SUCCESS| 1|  13|       15|13|        1|      10000|          1|       12|        39|      27
+	g      14|SUCCESS| 1|  14|       15|14|        1|      10000|          1|       12|        39|      27
+	g-----------------------------------------------------------------------------------------------------
+	hw1 finished!

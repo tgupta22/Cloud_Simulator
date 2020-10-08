@@ -2,6 +2,6 @@ Hi Tarush,
 
 Your grade for HW1 is 7.5%.
 
-1. -2%: For not simulating broadcast storm.
+1. -2.5%: For not simulating broadcast storm.
 
 Abhijeet
